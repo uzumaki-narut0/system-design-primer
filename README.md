@@ -1,6 +1,10 @@
 # System Design Primer
 A collection of topics and resources to polish your System Design lenses :mag:
 
+<p align ="center">        
+<img src="https://github.com/uzumaki-narut0/system-design-primer/blob/main/systemdesign.PNG" width="1080px"/>
+</p>
+
 ## Load Balancers
 * Advantages and Disadvantages
 * L4 vs L7 load balancers
