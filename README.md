@@ -26,6 +26,11 @@ A collection of topics and resources to polish your System Design lenses :mag:
 * Partitoning and Scaling
 * Replication : Master/Slave vs Master/Master
 
+## GeoSpatial Data
+* Quad trees
+* R trees
+* Google S2
+
 ## Low level Storage Fundamentals
 * Network Attached Storage (File Storage)
 * Storage Area Network (Block Storage)
