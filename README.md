@@ -19,3 +19,20 @@ A collection of topics and resources to polish your System Design lenses :mag:
 * Idempotency and Retrial
 * Classic mirrored vs Quorom queues (RabbitMQ)
 * Raft consensus protocol
+
+## Databases
+* SQL vs NoSQL
+* ACID
+* Partitoning and Scaling
+* Replication : Master/Slave vs Master/Master
+
+## Low level Storage Fundamentals
+* Network Attached Storage (File Storage)
+* Storage Area Network (Block Storage)
+* Object Storage (Blobs + Id + Metadata)
+
+## API Gateways
+* Advantages and Disadvantages
+* Service Discovery
+* Authentication and Authorisation
+* Similarities and DisSimilarities with *Service Mesh*
