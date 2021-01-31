@@ -13,3 +13,9 @@ A collection of topics and resources to polish your System Design lenses :mag:
 
 ## Caching
 * [Memcached : How Memory Gets Allocated For Items](https://github.com/memcached/memcached/wiki/UserInternals) 
+* Consistent Hashing - Auto Scaling
+
+## Message Brokers and Event Streaming
+* Idempotency and Retrial
+* Classic mirrored vs Quorom queues (RabbitMQ)
+* Raft consensus protocol
