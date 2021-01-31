@@ -23,8 +23,13 @@ A collection of topics and resources to polish your System Design lenses :mag:
 ## Databases
 * SQL vs NoSQL
 * ACID
-* Partitoning and Scaling
+* Sharding
 * Replication : Master/Slave vs Master/Master
+
+## Consensus and Consistency
+* Eventual consistency vs Immediate consistency
+* Byzantine Generals Problem
+* Byzantine Fault Tolerance
 
 ## GeoSpatial Data
 * Quad trees
